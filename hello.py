@@ -20,7 +20,7 @@ __version__ = "0.0.1"
 __author__ = "Lucas Norato"
 __license__ = "Unlicense"
 
-import os.getenv("LANG")[:5]
+#import os.getenv("LANG")[:5]
 
 current_language = "en_Us"
 
